@@ -21,6 +21,7 @@ namespace gittest1
         {
             MessageBox.Show("second save");
             MessageBox.Show("third  save");
+            MessageBox.Show("fourth commit");
         }
     }
 }
