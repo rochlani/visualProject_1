@@ -19,7 +19,7 @@ namespace gittest1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("first save");
+            MessageBox.Show("second save");
         }
     }
 }
